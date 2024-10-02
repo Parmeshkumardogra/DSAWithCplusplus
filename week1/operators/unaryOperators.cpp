@@ -10,4 +10,5 @@ int main(){
     cout<<--num<<endl;
     //post decrement first number or variable gets printed then decrement done
     cout<<num--<<endl;
+    return 0;
 }

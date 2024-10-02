@@ -17,4 +17,5 @@ int main(){
     cout<<(b>>2)<<endl;
     //bitwise ^xor operator
     cout<<(a^a)<<endl;
+    return 0;
 }
