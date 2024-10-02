@@ -8,6 +8,6 @@ int main(){
     cout<<num++<<endl;
     //pre decrement
     cout<<--num<<endl;
-    //post decrement
+    //post decrement first number or variable gets printed then decrement done
     cout<<num--<<endl;
 }
