@@ -31,4 +31,5 @@ int main(){
     cin>>n;
     printFullPyramid(n);
     printInvertedFullPyramid(n);
+    return 0;
 }
